@@ -1,0 +1,7 @@
+C:\Users\A\Desktop\C#\soal_1\soal_1\bin\Debug\soal_1.exe.config
+C:\Users\A\Desktop\C#\soal_1\soal_1\bin\Debug\soal_1.exe
+C:\Users\A\Desktop\C#\soal_1\soal_1\bin\Debug\soal_1.pdb
+C:\Users\A\Desktop\C#\soal_1\soal_1\obj\Debug\soal_1.csprojAssemblyReference.cache
+C:\Users\A\Desktop\C#\soal_1\soal_1\obj\Debug\soal_1.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\C#\soal_1\soal_1\obj\Debug\soal_1.exe
+C:\Users\A\Desktop\C#\soal_1\soal_1\obj\Debug\soal_1.pdb

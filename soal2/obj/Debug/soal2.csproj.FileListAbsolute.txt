@@ -1,0 +1,6 @@
+C:\Users\A\Desktop\C#\soal_1\soal2\bin\Debug\soal2.exe.config
+C:\Users\A\Desktop\C#\soal_1\soal2\bin\Debug\soal2.exe
+C:\Users\A\Desktop\C#\soal_1\soal2\bin\Debug\soal2.pdb
+C:\Users\A\Desktop\C#\soal_1\soal2\obj\Debug\soal2.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\C#\soal_1\soal2\obj\Debug\soal2.exe
+C:\Users\A\Desktop\C#\soal_1\soal2\obj\Debug\soal2.pdb
